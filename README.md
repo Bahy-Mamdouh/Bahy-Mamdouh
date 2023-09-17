@@ -4,7 +4,13 @@
 
 I am interested in cybersecurity and use my passion to make a positive impact in the field, I have been utilizing computer systems since the early days of technology, I am dedicated to constantly learning and developing new skills to improve cybersecurity protection and contribute to securing vital information in the digital age.
 
-Skills: Technical Knowledge / Analytical Skills / Communication Skills / Problem-Solving / Adaptability / HTML
+Skills:
+*Technical Knowledge 
+*Analytical Skills 
+*Communication Skills 
+*Problem-Solving 
+*Adaptability 
+*HTML
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Google Cybersecurity  
