@@ -7,7 +7,6 @@
 
 - 💻 I’m currently learning **Cybersecurity**
 
-- 📫 How to reach me **Bahymamdouh2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
