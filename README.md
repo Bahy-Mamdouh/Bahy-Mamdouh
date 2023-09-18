@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahy</h1>
 
-![Cybersecurity Analyst](https://w7.pngwing.com/pngs/870/561/png-transparent-scam-hacker-phishing-cybersecurity-fraud-malware-security-cyber.png)
+![Cybersecurity Analyst](https://img.freepik.com/free-vector/steal-data-cyber-attack-concept_23-2148535717.jpg?w=826&t=st=1695017562~exp=1695018162~hmac=e5c8226cc6b6620468b80c6c662013f1201240d9a70b177983b3ae002c23c6f2)
 
 <h3 align="center">I'm interested in cybersecurity, with a focus on identifying and mitigating security risks to safeguard assets and uphold the confidentiality, integrity, and availability of critical information.</h3>
 
