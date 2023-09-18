@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahy</h1>
 
 
-![Cybersecurity Analyst](https://blog.nettconn.net/hubfs/Imported%20sitepage%20images/hero-wfh-cybersecurity.png)
+![Cybersecurity Analyst]([https://blog.nettconn.net/hubfs/Imported%20sitepage%20images/hero-wfh-cybersecurity.png](https://e7.pngegg.com/pngimages/453/618/png-clipart-computer-security-network-security-information-technology-information-security-cctv-computer-network-text.png))
 
 <h3 align="center">I'm interested in cybersecurity, with a focus on identifying and mitigating security risks to safeguard assets and uphold the confidentiality, integrity, and availability of critical information.</h3>
 
