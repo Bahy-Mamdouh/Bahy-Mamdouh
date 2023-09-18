@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bahy</h1>
 
-
-![Cybersecurity Analyst](https://e7.pngegg.com/pngimages/477/619/png-clipart-man-sitting-in-front-of-computer-monitors-network-operations-center-network-monitoring-management-information-security-operations-center-business-analyst-computer-network-service.png)
+![Cybersecurity Analyst](https://freepngimg.com/thumb/vector/163193-cybersecurity-vector-hq-image-free.png)
 
 <h3 align="center">I'm interested in cybersecurity, with a focus on identifying and mitigating security risks to safeguard assets and uphold the confidentiality, integrity, and availability of critical information.</h3>
 
