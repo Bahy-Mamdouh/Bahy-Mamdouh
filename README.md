@@ -3,9 +3,9 @@
 
 ![Cybersecurity Analyst](https://blog.nettconn.net/hubfs/Imported%20sitepage%20images/hero-wfh-cybersecurity.png)
 
-- 🌱 I’m currently learning **Cybersecurity U+1F4BB**
+- I’m currently learning **Cybersecurity 💻
 
-- 📫 How to reach me **Bahymamdouh2@gmail.com**
+- How to reach me **Bahymamdouh2@gmail.com** 📫
 
 Skills: 
 * Technical Knowledge
