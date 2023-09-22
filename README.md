@@ -28,4 +28,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bahy-Mamdouh&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bahy-Mamdouh&theme=github&utcOffset=8)
 
-+ () [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bahy-Mamdouh)](https://git.io/streak-stats)
++[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bahy-Mamdouh)](https://git.io/streak-stats)
