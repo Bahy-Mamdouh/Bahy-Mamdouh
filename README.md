@@ -14,6 +14,7 @@
 
 
 
-#<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bahy-Mamdouh&theme=transparent" align="right">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bahy-Mamdouh&theme=transparent" align="right">
 
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bahy-Mamdouh&theme=vue" align="right">
