@@ -17,4 +17,4 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bahy-Mamdouh&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bahy-Mamdouh&theme=shadow-green)](https://git.io/streak-stats)
