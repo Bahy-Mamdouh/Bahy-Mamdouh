@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahy Mamdouh</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3D96F7&width=435&lines=Excited+about+a+career+in+cybersecurity+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38A6F7&width=435&lines=Excited+about+a+career+in+cybersecurity+)](https://git.io/typing-svg)
+
 
 
 
