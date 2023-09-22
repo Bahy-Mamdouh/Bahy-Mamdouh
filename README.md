@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Bahy Mamdouh</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A83EBF6&width=435&lines=Interested+about+a+career+in+cybersecurity.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3272FFF6&width=435&lines=Interested+about+a+career+in+cybersecurity.)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bahy-Mamdouh&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bahy-Mamdouh&theme=github)
