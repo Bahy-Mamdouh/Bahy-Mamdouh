@@ -14,6 +14,18 @@
 
 <br><br>
 
+<div style="clear: both;"></div>
+
+  <div style="float: left; margin-right: 20px;">
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  </div>
+
+  ## About me
+
+  ![Right Side](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true)
+
+  <div style="clear: both;"></div>
+</div>
 
 <div align="center">
 
