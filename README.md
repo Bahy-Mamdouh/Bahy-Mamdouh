@@ -5,15 +5,14 @@
 
 </div>
 
-<div style="float: left; margin-right: 20px;">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-</div>
+</p>
 
-## About me
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<div style="clear: both;"></div>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-![Right Side](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true)
+<br><br>
 
 
 <div align="center">
