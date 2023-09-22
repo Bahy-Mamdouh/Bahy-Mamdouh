@@ -5,7 +5,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg\in"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg\"
        alt="snake" /></a>
 </div>
 
@@ -14,7 +14,5 @@
 
 
 
-
-
-
++()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bahy-Mamdouh&theme=shadow-green)](https://git.io/streak-stats)
