@@ -17,3 +17,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bahy-Mamdouh&theme=transparent" align="right">
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bahy-Mamdouh&theme=transparent)](https://git.io/streak-stats)
