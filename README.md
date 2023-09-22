@@ -3,7 +3,13 @@
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A55F0F0&width=435&lines=Interested+about+a+career+in+cybersecurity.)](https://git.io/typing-svg)
 
+<br>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
 
 
 <div align="center">
