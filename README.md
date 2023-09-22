@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bahy Mamdouh</h1>
 	
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=+Hey,+everyone..!;I'm+a+learning+Cypersecurty..;Excited+about+Career;Love+To+Learn+New+Skills;Active+Learner/Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=++Hey,+everyone...!;I'm+a+learning+CyperSecurty..;Excited+about+Career;Love+To+Learn+new+skills;Active+Learner/Researcher)](https://git.io/typing-svg)
 
 <!--- snake -->
 <div align="center">
