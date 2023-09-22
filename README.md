@@ -3,15 +3,12 @@
 	
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A55F0F0&width=435&lines=Interested+about+a+career+in+cybersecurity.)](https://git.io/typing-svg)
 
+<div style="float: left; margin-right: 20px;">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+</div>
 
-</p>
+## About me
 
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px<</picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
 
 <div align="center">
 
